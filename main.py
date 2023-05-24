@@ -7,3 +7,5 @@ print(test_tup)
 
 test_tup = test_tup[:2] + test_tup[-2:]
 print(test_tup)
+
+print("sucessfully pushed in the git ")
